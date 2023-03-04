@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI';
+    background-color: darkgray;
+}
+
+h1 {
+    max-width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2.5%;
+
+    background: rgb(75, 74, 74);
+    border-radius: 20px;
+}
